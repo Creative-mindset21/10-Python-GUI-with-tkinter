@@ -2,7 +2,7 @@
 
 from tkinter import *
 
-# Defind Window
+# Define Window
 root = Tk()
 root.title("Frame Basic!")
 root.geometry("500x500")
